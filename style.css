@@ -1,0 +1,18 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body {
+     
+}
+.navBar{
+     height: 96px;
+     width: 100%;
+     background-color: #0F0F0F;
+}
+.navBar img{
+     height: 50px;
+     opacity: 85%;
+     margin: 20px 10px;
+}
